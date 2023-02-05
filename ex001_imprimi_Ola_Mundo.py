@@ -1,3 +1,3 @@
-#programa imprimi a frase 'Ola, Mundo!'
+#programa imprimi a frase ''Olá, Mundo!'
 
-print('Ola, Mundo!')
+print(''Olá, Mundo!')
