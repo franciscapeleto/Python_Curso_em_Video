@@ -1,6 +1,6 @@
 # dissecando uma variável
 
-algo = input('Digite algo: ') # usuario deve inserir qualquer informacao na variável algo
+algo = input('Digite algo: ') # usuário deve inserir qualquer informação na variável algo
 print('O tipo primitivo do que foi digitado é ', type(algo)) # imprime o tipo primitivo da variável algo
 print('O que foi digitado somente tem espaços? ', algo.isspace()) # imprime se a variável algo só tem espaços
 print('O que foi digitado é um número? {}'.format(algo.isnumeric())) # imprime se a variável algo é um número
