@@ -1,4 +1,4 @@
-# soma entre dois números
+# calcula a soma entre dois números escolhidos pelo usuário
 
 n1 = int(input('Digite um número: '))  # usuário insere o primeiro número
 n2 = int(input('Digite outro número: '))  # usuário insere o segundo número
